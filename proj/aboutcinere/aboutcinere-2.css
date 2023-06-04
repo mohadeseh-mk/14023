@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#CFC999;
+/*
+	background-repeat: no-repeat;
+	background-size: cover;
+*/
+	
+}
+#home{
+	display: inline-block;
+	float:left;
+/*	position:fixed;*/
+	width: 17%;
+	margin-left: -2%;
+	margin-top:-1%;
+}
+#back{
+	width: 50%;
+	height:1860px;
+	background-color: floralwhite;
+/*	margin-left:25%;*/
+	margin-top:-3%;
+	box-shadow: inset 0 -3em 3em #D9CB9B, 0 0 0 2px #D9CB9B,
+    0 0 1em #D9CB9B;
+	display: inline-block;
+	float: right;
+	margin-right: 8%;
+}
+h1{
+	text-align: center;
+		text-shadow:5px 10px 10px #C4AF64;
+}
+img{
+	width: 24%;
+	margin-left: 38%;
+	display: inline-flex;
+	margin-top: -3%;
+}
+
+p{
+	text-align: right;
+	padding-right: 2%;
+}
+h2{
+	text-align: right;
+	padding-right: 2%;
+	margin-bottom: 3%;
+	text-shadow:5px 10px 10px #C4AF64;
+}
+#p1{
+	margin-top: -5%;
+}
+#p2{
+	text-align: right;
+	padding-right: 2%;
+}
+#bayaniye{
+	width: 53%;
+	margin-top: 3%;
+	float: left;
+	margin-left:4%;
+}
+
+#img2{
+	display: inline-block;
+	float: left;
+	margin-left: 2%;
+	width: 30%;
+}
+
+#img2:hover{
+	-webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+#img3{
+	display: inline-block;
+	float: left;
+	margin-left: 2%;
+	width: 30%;
+	margin-top: 0.5%;
+}
+#img3:hover{
+	-webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+#back2{
+	text-align: right;
+	padding-right: 2%;
+}
+#img4{
+	display: inline-block;
+	float: left;
+	margin-left: 2%;
+	width: 30%;
+	margin-top: 0.5%;
+}
+#img4:hover{
+	-webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}

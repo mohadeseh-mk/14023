@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url("Autumn.Leaves.Background.21.EPS_.Thmb_.jpg");
+	background-size: cover;
+	opacity: 95%;
+}
+#screen{
+	background-color:#4ED56A;
+	width: 60%;
+	height: 500px;
+	margin-left:20%;
+	margin-top: 12%;
+	border-radius: 3%;
+	box-shadow: 1px 1px 16px green;
+}
+h2{
+	font-size: 38px;
+	text-align: center;
+	padding-top: 1%;
+	background: #059014;
+   
+/*	border-radius: 4%;*/
+}
+h4{
+	font-size: 25px;
+	text-align: center;
+	margin-top: -3.5%;
+	background: #059014;
+}
+#form2{
+	width: 20%;
+	float: right;
+	margin-top:-2%;
+/*	box-shadow: 1px 1px 3px white;*/
+}
+label{
+	float: right;
+	font-size: 30px;
+	margin-right: 60%;
+}
+#name{
+	float: right;
+	height: 24px;
+	background-color: whitesmoke;
+	margin-right: 70%;
+	border-color:white;
+}
+#email{
+	float: right;
+	height: 24px;
+	background-color: whitesmoke;
+	margin-right: 70%;
+	border-color:white;
+}
+#pm{
+	margin-right: 70%;
+	float: right;
+	height:140px;
+	background-color: whitesmoke;
+	border-color:white;
+}
+button{
+	width: 60%;
+	height: 50%;
+	font-size: 30px;
+	margin-top: 6%;
+	margin-right: 50%;
+	padding-right: 5%;
+	border-radius: 12%;
+	background-color:#9FECB4;
+}
+button:hover{
+	background-color: lightcyan;
+}
+#pic{
+	float: left;
+	width: 50%;
+}
